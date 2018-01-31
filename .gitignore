@@ -58,3 +58,10 @@ node_modules
 
 /coverage
 /third-party
+
+# Bazel files
+bazel-bin
+bazel-genfiles
+bazel-out
+bazel-react-native
+bazel-testlogs
