@@ -1,1 +1,2 @@
-#React native workspace file
+#React native workspace file'
+workspace(name = "com_endpress_reactnative")
